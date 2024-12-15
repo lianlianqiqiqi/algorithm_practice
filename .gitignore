@@ -1,0 +1,6 @@
+*.dSYM
+/.vscode
+/build
+test*
+data
+Singleton*
