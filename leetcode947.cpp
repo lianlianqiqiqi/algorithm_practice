@@ -1,3 +1,5 @@
+// https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/
+
 #include <vector>
 #include <numeric>
 using std::vector;
@@ -35,7 +37,3 @@ public:
         return removedStone;
     }
 };
-
-int main() {
-    return 0;
-}
