@@ -1,4 +1,5 @@
 // https://leetcode.cn/problems/find-all-people-with-secret/description/
+
 #include<vector>
 #include<algorithm>
 using std::vector;
