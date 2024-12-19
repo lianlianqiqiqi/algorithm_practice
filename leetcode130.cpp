@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/surrounded-regions/description/
+// https://leetcode.cn/problems/surrounded-regions/
 #include<vector>
 using std::vector;
 

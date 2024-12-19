@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/number-of-islands/description/
+// https://leetcode.cn/problems/number-of-islands/
 #include <vector>
 using std::vector;
 

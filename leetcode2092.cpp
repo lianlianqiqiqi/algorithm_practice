@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/find-all-people-with-secret/description/
+// https://leetcode.cn/problems/find-all-people-with-secret/
 
 #include<vector>
 #include<algorithm>

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/making-a-large-island/description/
+// https://leetcode.cn/problems/making-a-large-island/
 #include <vector>
 #include <algorithm>
 using std::vector;
